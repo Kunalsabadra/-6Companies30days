@@ -1,4 +1,4 @@
-//Using Rabin Karp Algorithm
+//Using KMP Algorithm
 
 //Code
 class Solution {
