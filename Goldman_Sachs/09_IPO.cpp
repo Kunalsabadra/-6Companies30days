@@ -1,3 +1,8 @@
+/*
+T.C : NLog(N) (sorting) + klog(K) (heapify)
+S.C : O(N)
+*/
+//code
 bool comp(pair<int , int>p1 , pair<int , int> p2){
        return p1.second < p2.second;
   }
